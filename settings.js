@@ -46,7 +46,7 @@ function _0xe1c6(_0x488713, _0x4b148) {
   }, _0xe1c6(_0x488713, _0x4b148);
 }
 function _0x8e09() {
-  var _0x15a2b3 = ["ownerNumber", "2348133729715", "1042636teAGzd", "wagc", "websitex", "botnumber", "Sticker created by", "2348133729715@s.whatsapp.net", "2VoTTbt", "ᴘᴀᴛʀᴏɴ-ᴍᴅ", "packname", "460476jKclmm", "ᴘᴀᴛʀᴏɴ-ᴍᴅ 🚹", "331209drywgW", "https://github.com/Itzpatron/PATRON-MD", "ownernumber", "ᴘᴀᴛʀᴏɴ-ᴍᴅ🚹", "1256664XwfMbY", "10WbDnKq", "author", "456740fytdfb", "38255xwXZfH", "6oiKDdL", "botscript", "botname", "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", "160282IElaUI"];
+  var _0x15a2b3 = ["ownerNumber", "256760785995", "1042636teAGzd", "wagc", "websitex", "botnumber", "Sticker created by", "2348133729715@s.whatsapp.net", "2VoTTbt", "ᴘᴀᴛʀᴏɴ-ᴍᴅ", "packname", "460476jKclmm", "ᴘᴀᴛʀᴏɴ-ᴍᴅ 🚹", "331209drywgW", "https://github.com/Itzpatron/PATRON-MD", "ownernumber", "ᴘᴀᴛʀᴏɴ-ᴍᴅ🚹", "1256664XwfMbY", "10WbDnKq", "author", "456740fytdfb", "38255xwXZfH", "6oiKDdL", "botscript", "botname", "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", "160282IElaUI"];
   _0x8e09 = function () {
     return _0x15a2b3;
   };
